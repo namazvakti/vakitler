@@ -2,13 +2,13 @@
   "timezone": "Europe/Istanbul",
   "current": {
     "year": 2025,
-    "url": "PASTE_DB_2025_URL_HERE",
+    "url": "https://github.com/namazvakti/vakitler/releases/download/v1.0/NamazVakitleri_2025.db",
     "sha256": "C93B4AD165160CB0BD40E7C8C17D4F6A67C7FF2A2909106DC39C6E155C4EB7A0",
     "size": 0
   },
   "next": {
     "year": 2026,
-    "url": "PASTE_DB_2026_URL_HERE",
+    "url": "https://github.com/namazvakti/vakitler/releases/download/v1.0/NamazVakitleri_2026.db",
     "sha256": "7C47B6909D669FA6D3AA5C1F4BB424C914BAF5C1E50362D49B24BCF2BB0DD4E1",
     "size": 0
   },
