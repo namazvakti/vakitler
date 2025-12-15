@@ -2,13 +2,14 @@
   "timezone": "Europe/Istanbul",
   "current": {
     "year": 2025,
-    "url": "https://github.com/namazvakti/vakitler/releases/download/v1.0/NamazVakitleri_2025.db",
+    "url": "
+https://release-assets.githubusercontent.com/github-production-release-asset/1116480769/5fc2cbf5-2c3a-471d-a5fa-6d6c2c3eee72?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-15T01%3A19%3A08Z&rscd=attachment%3B+filename%3DNamazVakitleri_2025.db&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-15T00%3A18%3A09Z&ske=2025-12-15T01%3A19%3A08Z&sks=b&skv=2018-11-09&sig=C4ASmX%2BkCgNiyg1WPitjppKpdjL540khne%2BIMhVqmgQ%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NTc1OTQ5MSwibmJmIjoxNzY1NzU5MTkxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.byFcTGWyaTuk84_AwGxE1Z2IyU5ywQO2mCe66EqEFd0&response-content-disposition=attachment%3B%20filename%3DNamazVakitleri_2025.db&response-content-type=application%2Foctet-stream",
     "sha256": "C93B4AD165160CB0BD40E7C8C17D4F6A67C7FF2A2909106DC39C6E155C4EB7A0",
     "size": 0
   },
   "next": {
     "year": 2026,
-    "url": "https://github.com/namazvakti/vakitler/releases/download/v1.0/NamazVakitleri_2026.db",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1116480769/3377319a-70d0-4954-8740-e8277dddb166?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-15T01%3A15%3A27Z&rscd=attachment%3B+filename%3DNamazVakitleri_2026.db&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-15T00%3A15%3A05Z&ske=2025-12-15T01%3A15%3A27Z&sks=b&skv=2018-11-09&sig=clSH2%2BVsKHWYP%2B68T5mNvk1GFBYMVG4LZwDkYZQ7thA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NTc1OTU4NiwibmJmIjoxNzY1NzU5Mjg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.tmiaITiX4YohYIKN8D8Gt4lgsUo-tv3_ZeTpKpVC0zc&response-content-disposition=attachment%3B%20filename%3DNamazVakitleri_2026.db&response-content-type=application%2Foctet-stream",
     "sha256": "7C47B6909D669FA6D3AA5C1F4BB424C914BAF5C1E50362D49B24BCF2BB0DD4E1",
     "size": 0
   },
